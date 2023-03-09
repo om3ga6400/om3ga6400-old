@@ -105,7 +105,7 @@
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/cb6771daf2a092511e6228b8c2ea155548701c2e/assets/img/Wave.svg" alt="wave gif" />
+        <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/198f499d376de41620fb0c5937cb279c20773f0f/assets/img/Wave.svg" alt="wave gif" />
 </p>
 
 <!--
