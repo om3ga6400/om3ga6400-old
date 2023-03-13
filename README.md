@@ -66,7 +66,7 @@
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
   <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://streak-stats.demolab.com/user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+  <a href="https://git.io/streak-stats"><img alt="OMEGA6404's Streak stats" src="https://streak-stats.demolab.com/user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
 <div align="center">
@@ -107,6 +107,8 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/198f499d376de41620fb0c5937cb279c20773f0f/assets/img/Wave.svg" alt="wave gif" />
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
