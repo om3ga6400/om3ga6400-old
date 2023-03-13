@@ -66,7 +66,7 @@
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
   <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src=https://streak-stats.demolab.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
 <div align="center">
