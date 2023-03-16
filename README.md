@@ -66,19 +66,19 @@
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
   <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6404's Streak stats" src="https://streak-stats.demolab.com/user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+  <a href="https://git.io/streak-stats"><img alt="OMEGA6404's Streak stats" src="https://streak-stats.demolab.com/user=OMEGA6403&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
 <div align="center">
 	
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6403&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
      
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6403&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6403&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 
 ## 📜 Programming Quote
@@ -90,7 +90,7 @@
 	</div>
 	
    ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6403&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -99,17 +99,17 @@
 	
 <h1 align='center'></h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6403/OMEGA6403/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6403/OMEGA6403/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
 
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/OMEGA6404/OMEGA6404/198f499d376de41620fb0c5937cb279c20773f0f/assets/img/Wave.svg" alt="wave gif" />
+        <img src="https://raw.githubusercontent.com/OMEGA6403/OMEGA6403/198f499d376de41620fb0c5937cb279c20773f0f/assets/img/Wave.svg" alt="wave gif" />
 </p>
 
 <!--
-**OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OMEGA6403/OMEGA6403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
