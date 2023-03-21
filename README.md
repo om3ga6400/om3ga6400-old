@@ -65,10 +65,10 @@
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
-<h1 align='center'>
+<div align="center">
 	
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-	</h1>
+	</div>
 	
   ## 🏆 Awards
 	
