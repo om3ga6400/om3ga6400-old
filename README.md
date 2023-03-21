@@ -5,7 +5,7 @@
  
  <h4 align="center"> Pronouns: He/Him </h4>
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMəGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6405?label=Sponsors&logo=githubsponsors">
