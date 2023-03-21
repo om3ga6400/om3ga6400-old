@@ -4,12 +4,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
  <h4 align="center"> Pronouns: He/Him </h4>
-	
-<dt>
-            <p align="center">
-        <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
-        </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-OMəGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
