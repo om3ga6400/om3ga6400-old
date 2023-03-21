@@ -65,12 +65,12 @@
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
-<p align="Middle">
+<h1 align='center'></h1>
 	
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 	
   ## 🏆 Awards
-<div align="center">
+<h1 align='center'></h1>
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
