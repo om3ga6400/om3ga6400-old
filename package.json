@@ -1,0 +1,34 @@
+{
+  "name": "grs-action",
+  "version": "1.0.0",
+  "description": "🤖 GitHub Action for @anuraghazra/github-readme-stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zo-Bro-23/grs-action.git"
+  },
+  "keywords": [
+    "github-action",
+    "readme",
+    "dynamic",
+    "profile-readme",
+    "readme-generator",
+    "readme-stats"
+  ],
+  "author": "Zohan Subhash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zo-Bro-23/grs-action/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Zo-Bro-23/grs-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
+    "@zo-bro-23/github-readme-stats-test": "^1.0.5",
+    "query-string": "^8.1.0"
+  }
+}

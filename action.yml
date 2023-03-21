@@ -1,0 +1,24 @@
+name: 'GRS Action'
+description: '⚡️ Dynamically generated stats for your github readmes'
+inputs:
+  token:
+    description: 'GitHub Token'
+    required: true
+  card:
+    description: 'Type of card: repo, top-langs, or wakatime (leave empty for stats card)'
+    required: false
+  options:
+    description: 'Options for the card'
+    required: true
+  path:
+    description: 'Output path for SVG file (relative path; include filename with .svg)'
+    required: false
+  fetch_multipage:
+    description: 'Experimental feature: Should fetch multipage responses (more accurate) if user has more than 100 repos'
+    default: false
+branding:
+  color: 'green'
+  icon: 'bar-chart'
+runs:
+  using: 'node16'
+  main: 'index.js'
