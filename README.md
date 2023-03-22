@@ -43,7 +43,7 @@
 	  
 - 🖥️ Our Discord Server 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xC9q4Fj2cR)](https://discord.gg/xC9q4Fj2cR) 
+[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r) 
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
