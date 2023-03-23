@@ -5,7 +5,7 @@
  
  <h4 align="center"> Pronouns: He/Him </h4>
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6405" /> </p>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6405?label=Sponsors&logo=githubsponsors">
@@ -13,12 +13,12 @@
     <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>       
     <!--<a href="https://github.com/OMEGA6405?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6405" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/OMEGA6405" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
+    <!--<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6405" alt="commits"/>--> 
     <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" /></a>
     <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
     <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6404" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/OMEGA6404" alt="OMEGA6405"/>-->
+    <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6405"/>-->
 </p> 
 
@@ -106,7 +106,7 @@
 </p>
 
 <!--
-**OMEGA6403/OMEGA6403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OMEGA6405/OMEGA6405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
