@@ -66,7 +66,7 @@
 	
   ## 🏆 Awards
 	
-<div align="right">
+<div align="middle">
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=5&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
