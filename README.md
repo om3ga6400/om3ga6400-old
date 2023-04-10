@@ -25,7 +25,7 @@
   <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 
- <h1 align="center"></h1>
+ <h2 align="center"></h2>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6405/OMEGA6405)
 
