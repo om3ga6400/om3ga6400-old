@@ -106,7 +106,7 @@
 </p>
 
 <!--
-**OMEGA6405/OMEGA6405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OMEGA6400/OMEGA6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
