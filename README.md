@@ -20,7 +20,7 @@
     <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6405"/>-->
-</p> 
+</p>
 
   <h3 align="center">Cool 7th grader in Robious Middle School</h3>
 	
@@ -40,11 +40,10 @@
 - 📫 How to reach me **Jackguiveroulie@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube**
-	  
-- 🖥️ Our Discord Server 
+- 🖥️ Our Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r) 
-	
+[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18216156" height="30" width="40" /></a>
@@ -97,7 +96,7 @@
 <h1 align='center'></h1>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6405/OMEGA6405/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/OMEGA6405/OMEGA6405/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-	</p>
+</p>
 
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
 
