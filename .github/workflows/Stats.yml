@@ -24,3 +24,7 @@ jobs:
         git commit -m "Update README"
         git push
         fi
+        
+        - name: Profile Readme Stats
+        uses: teoxoy/profile-readme-stats@v2
+
