@@ -14,7 +14,9 @@
     <!--<a href="https://github.com/OMEGA6405?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6405" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/OMEGA6405" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6405" alt="commits"/>--> 
-    <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" /></a>
+    <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
+[![generate animation](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml)
+	</a>
     <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
     <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
