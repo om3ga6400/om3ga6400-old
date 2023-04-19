@@ -23,8 +23,6 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6405"/>-->
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 </p>
-	
-[![generate animation](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml)
 
   <h3 align="center">Cool 7th grader</h3>
 	
