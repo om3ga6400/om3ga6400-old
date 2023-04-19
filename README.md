@@ -21,8 +21,9 @@
     <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6405"/>-->
-[![generate animation](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml)
 </p>
+	
+[![generate animation](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml)
 
   <h3 align="center">Cool 7th grader</h3>
 	
