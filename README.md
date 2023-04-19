@@ -8,7 +8,6 @@
  <p align="center"> <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6405" /> </p>
 	
 <p align="center">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6405?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
     <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6405" />
@@ -21,7 +20,6 @@
 <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6405"/>-->
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 </p>
 
