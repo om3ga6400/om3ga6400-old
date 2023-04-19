@@ -4,8 +4,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
  <h4 align="center"> Pronouns: He/Him </h4>
- 
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMƏGA_%236400-red/?logo=discord&color=7289DA" alt="omega6405" /> </p>
 	
 <p align="center">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
