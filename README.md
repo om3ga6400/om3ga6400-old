@@ -3,7 +3,7 @@
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
- <h4 align="center"> Pronouns: He/Him </h4>
+<h4 align="center"> Pronouns: He/Him </h4>
 	
 <p align="center">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
@@ -21,9 +21,9 @@
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 </p>
 
-  <h3 align="center">Cool 7th grader</h3>
+<h3 align="center">Cool 7th grader</h3>
 	
-  <p align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6405/OMEGA6405)
