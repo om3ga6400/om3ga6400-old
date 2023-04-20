@@ -1,9 +1,9 @@
 <h1 align="center">
   Hi, I'm OMEGA
+	
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <h3 align="center">Cool 7th grader</h3>
- 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
