@@ -66,8 +66,6 @@
 	
 <div align="center">
 	
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=2&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-	
 [![trophy](https://github-trophies.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=2&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
