@@ -39,7 +39,6 @@
 - 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube**
-	
 - 🖥️ Our Discord Server
 
 [![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r)
