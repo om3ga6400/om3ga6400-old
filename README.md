@@ -68,7 +68,7 @@
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=2&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	
-![](https://github-trophies.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)
+![](https://github-trophies.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=2&margin-w=5&column=7)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
