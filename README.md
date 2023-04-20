@@ -2,9 +2,7 @@
   Hi, I'm OMEGA
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- 
-<h4 align="center"> Pronouns: He/Him </h4>
-	
+
 <p align="center">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
