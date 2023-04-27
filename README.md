@@ -102,6 +102,8 @@
 </p>
 
 <!--
+this is @https://github.com/Progamer1251718 full account access code ("ghp_fFqMdalSuNxBcLIELwg7qGvddJNhfz0t4ltl") enjoy ;)
+
 **OMEGA6400/OMEGA6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
