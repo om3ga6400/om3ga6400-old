@@ -28,9 +28,9 @@
 
 - 🌱 I’m currently learning **PHP and Java**
 
-- 👯 I’m looking to collaborate on [my Youtube](https://www.youtube.com/@OMEGA_GD)
+- 👯 I’m looking to collaborate on [my Youtube](https://tinyurl.com/r5v6r52x)
 
-- 🤝 I’m looking for help with [my Github Readme](https://github.com/OMEGA6405/OMEGA6405)
+- 🤝 I’m looking for help with [my Github Readme](https://tinyurl.com/bdejfc3n)
 
 - 👨‍💻 All of my projects are available at [My Github](https://tinyurl.com/243kfw4b)
 
@@ -41,7 +41,7 @@
 - ⚡ Fun fact **I can solve a Rubix cube**
 - 🖥️ Our Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r)
+[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://tinyurl.com/36kjp4eu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
