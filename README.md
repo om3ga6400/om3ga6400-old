@@ -32,7 +32,7 @@
 
 - 🤝 I’m looking for help with [my Github Readme](https://github.com/OMEGA6405/OMEGA6405)
 
-- 👨‍💻 All of my projects are available at [https://github.com/OMEGA6405?tab=repositories](https://github.com/OMEGA6405?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Github](https://tinyurl.com/243kfw4b)
 
 - 💬 Ask me about **Base64**
 
