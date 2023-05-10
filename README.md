@@ -41,7 +41,7 @@
 - ⚡ Fun fact **I can solve a Rubix cube**
 - 🖥️ Our Discord Server
 
-[![Join us on Discord](https://invidget.switchblade.xyz/u6bPFpt44r)](https://discord.gg/u6bPFpt44r)
+[![Join us on Discord](https://invidget.switchblade.xyz/waCs2kJa)](https://discord.gg/waCs2kJa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
