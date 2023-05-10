@@ -8,7 +8,7 @@
 <p align="center">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
-    <img src="https://img.shields.io/badge/Discord-OMƏGA_%2322617-red/?logo=discord&color=7289DA" alt="omega6405" />
+    <img src="https://img.shields.io/badge/Discord-OMƏGA_%232617-red/?logo=discord&color=7289DA" alt="omega6405" />
     <!--<a href="https://github.com/OMEGA6405?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6405" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/OMEGA6405" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6405" alt="commits"/>--> 
