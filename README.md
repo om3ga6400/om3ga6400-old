@@ -19,7 +19,7 @@
     <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1096e0153c3a4993aebbcbdf5a2f6ae1)](https://app.codacy.com/gh/OMEGA6405/OMEGA6405.github.io/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+<a href="https://app.codacy.com/project/badge/Grade/1096e0153c3a4993aebbcbdf5a2f6ae1"><img alt="Codacy Badge" src="https://app.codacy.com/gh/OMEGA6405/OMEGA6405.github.io/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"/></a>
 </p>
 
 <p align="center">
