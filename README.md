@@ -57,7 +57,7 @@
 
 <div align="center">
 	
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-omega6405.vercel.app/?user=DenverCoder1)](https://github.com/OMEGA6405/github-readme-streak-stats)
 	</div>
 	
 ## 🏆 Awards
