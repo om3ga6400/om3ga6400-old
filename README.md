@@ -57,7 +57,7 @@
 
 <div align="center">
 	
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](github-readme-streak-stats-omega6400.vercel.app/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 	</div>
 	
 ## 🏆 Awards
