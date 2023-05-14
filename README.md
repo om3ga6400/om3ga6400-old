@@ -3,7 +3,7 @@
   Hi, I'm OMEGA
 
 <!--wave gif-->
-<img src="http://canarytokens.com/images/athg9fbt7dg5v6fhvswq25eku/wave.gif" width="28">
+<img src="assets/img/wave.gif" width="28">
 	
 <!--tagline-->
 <h3 align="center">Cool 7th grader</h3>
