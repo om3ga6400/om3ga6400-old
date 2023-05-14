@@ -57,14 +57,14 @@
 
 <div align="center">
 	
-[![GitHub Streak](github-readme-streak-stats-omega6400.vercel.app/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 	</div>
 	
 ## 🏆 Awards
 	
 <div align="center">
 	
-[![trophy](https://github-profile-trophy-vert.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=5&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Github Stats
