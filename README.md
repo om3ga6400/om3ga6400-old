@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm OMEGA
 	
-<img src="http://canarytokens.com/images/athg9fbt7dg5v6fhvswq25eku/wave.gif" width="28">
+<img src="assets/img/wave.gif" width="28">
 
 <h3 align="center">Cool 7th grader</h3>
 
