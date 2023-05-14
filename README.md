@@ -9,15 +9,10 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
     <img src="https://img.shields.io/badge/Discord-OMƏGA_%232617-red/?logo=discord&color=7289DA" alt="omega6405" />
-    <!--<a href="https://github.com/OMEGA6405?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6405" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/OMEGA6405" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6405" alt="commits"/>--> 
     <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
 	</a>
     <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/OMEGA6405" target="_blank"><img alt="OMEGA6405" src="https://badges.pufler.dev/visits/OMEGA6405/OMEGA6405?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/OMEGA6405" alt="OMEGA6405"/>-->
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 </p>
 
@@ -25,19 +20,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+CSS%2C+Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+three+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [Cookie Destroyer](https://github.com/OMEGA6405/CookieDestroyer)
-
 - 🌱 I’m currently learning **PHP and Java**
-
 - 👯 I’m looking to collaborate on [my Youtube](https://tinyurl.com/r5v6r52x)
-
 - 🤝 I’m looking for help with [my Github Readme](https://tinyurl.com/bdejfc3n)
-
 - 👨‍💻 All of my projects are available at [My Github](https://tinyurl.com/243kfw4b)
-
 - 💬 Ask me about **Base64**
-
 - 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
-
 - ⚡ Fun fact **I can solve a Rubix cube**
 - 🖥️ Our Discord Server
 
@@ -82,7 +70,7 @@
 </p>
 	</div>
 	
-   ## 📈 Activity Graph
+## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
@@ -100,20 +88,3 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/OMEGA6405/OMEGA6405/198f499d376de41620fb0c5937cb279c20773f0f/assets/img/Wave.svg" alt="wave gif" />
 </p>
-
-<!--
-01100100 01000111 01101000 01110000 01100011 01111001 01000010 01110000 01100011 01111001 01000010 01000001 01100001 01001000 01010010 00110000 01100011 01001000 01001101 00110110 01001100 01111001 00111001 01101110 01100001 01011000 01010010 01101111 01100100 01010111 01001001 01110101 01011001 00110010 00111001 01110100 01001100 00110001 01000010 01111001 01100010 00110010 01100100 01101000 01100010 01010111 01010110 01111001 01001101 01010100 01001001 00110001 01001101 01010100 01100011 01111000 01001111 01000011 01000010 01101101 01100100 01010111 01111000 01110011 01001001 01000111 01000110 01101010 01011001 00110010 00111001 00110001 01100010 01101110 01010001 01100111 01011001 01010111 01001110 01101010 01011010 01011000 01001110 01111010 01001001 01000111 01001110 01110110 01011010 01000111 01010101 01100111 01001011 01000011 01001010 01101110 01100001 01001000 01000010 01100110 01011010 01101011 01011010 01111000 01010100 01010111 01010010 01101000 01100010 01000110 01001110 00110001 01010100 01101110 01101000 01000011 01011001 00110000 01111000 01001010 01010010 01010101 01111000 00110011 01011010 01111010 01100100 01111000 01010010 00110011 01011010 01101011 01011010 01000101 01110000 01001111 01100001 01000111 01011010 00110110 01001101 01001000 01010001 00110000 01100010 01001000 01010010 01110011 01001001 01101001 01101011 01100111 01011010 01010111 00110101 01110001 01100010 00110011 01101011 01100111 01001111 01111001 01101011 01001011 
-
-**OMEGA6400/OMEGA6400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
