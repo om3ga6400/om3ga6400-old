@@ -36,7 +36,7 @@
 - 🖥️ Our Discord Server
 	
 <!--discord invite-->
-[![Join us on Discord](https://invidget.switchblade.xyz/waCs2kJa)](https://discord.gg/waCs2kJa)
+[![Join us on Discord](https://invidget.switchblade.xyz/tjShmfFNb9)](https://discord.gg/tjShmfFNb9)
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
