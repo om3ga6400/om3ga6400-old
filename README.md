@@ -18,6 +18,11 @@
 <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+	
+<a href="https://dcbadge.vercel.app"><img alt="generate animation" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
+<a href="https://dcbadge.vercel.app"><img alt="generate animation" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
+![](https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat)
+[![](https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat)](https://discord.gg/tjShmfFNb9)
 </p>
 
 <!--typing-->
