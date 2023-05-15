@@ -97,6 +97,7 @@
 	</div>
 <!--activity graph title-->
 ## 📈 Activity Graph
+
 ## 📜 Programming Quote
 
 <!--activity graph-->
