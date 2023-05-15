@@ -98,8 +98,6 @@
 <!--activity graph title-->
 ## 📈 Activity Graph
 
-## 📈 Activity Graph
-
 <!--activity graph-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
