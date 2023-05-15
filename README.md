@@ -12,12 +12,13 @@
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
 <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
-<img src="https://img.shields.io/badge/Discord-OMƏGA_%232617-red/?logo=discord&color=7289DA" alt="omega6405" />
 <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
 	</a>
 <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
 <a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+<a href="https://dcbadge.vercel.app"><img alt="generate animation" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
+<a href="https://dcbadge.vercel.app"><img alt="generate animation" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
 </p>
 
 <!--typing-->
