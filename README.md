@@ -96,6 +96,7 @@
 </p>
 	</div>
 <!--activity graph title-->
+
 ## 📈 Activity Graph
 
 <!--activity graph-->
