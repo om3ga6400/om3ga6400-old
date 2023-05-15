@@ -12,7 +12,6 @@
 <p align="center">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
 <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="OMEGA6405"/>
-<img src="https://img.shields.io/badge/Discord-OMƏGA_%232617-red/?logo=discord&color=7289DA" alt="omega6405" />
 <a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
 	</a>
 <a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
