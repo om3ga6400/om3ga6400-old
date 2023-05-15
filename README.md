@@ -29,11 +29,11 @@
 	
 - 🌱 I’m currently learning **PHP and Java**
 	
-- 👯 I’m looking to collaborate on [my Youtube](https://tinyurl.com/r5v6r52x)
+- 👯 I’m looking to collaborate on [My Youtube](you)
 	
-- 🤝 I’m looking for help with [my Github Readme](https://tinyurl.com/bdejfc3n)
+- 🤝 I’m looking for help with [My Github Readme](https://www.youtube.com/@OMEGA_GD)
 	
-- 👨‍💻 All of my projects are available at [My Github](https://tinyurl.com/243kfw4b)
+- 👨‍💻 All of my projects are available at [My Website](https://OMEGA6405.github.io)
 	
 - 💬 Ask me about **Base64**
 	
