@@ -26,13 +26,21 @@
 	
 <!--about me-->  
 - 🔭 I’m currently working on [Cookie Destroyer](https://github.com/OMEGA6405/CookieDestroyer)
+	
 - 🌱 I’m currently learning **PHP and Java**
+	
 - 👯 I’m looking to collaborate on [my Youtube](https://tinyurl.com/r5v6r52x)
+	
 - 🤝 I’m looking for help with [my Github Readme](https://tinyurl.com/bdejfc3n)
+	
 - 👨‍💻 All of my projects are available at [My Github](https://tinyurl.com/243kfw4b)
+	
 - 💬 Ask me about **Base64**
+	
 - 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
+	
 - ⚡ Fun fact **I can solve a Rubix cube**
+	
 - 🖥️ Our Discord Server
 	
 <!--discord invite-->
