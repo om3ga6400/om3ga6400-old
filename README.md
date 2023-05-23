@@ -28,7 +28,7 @@
 <!--about me-->  
 - 🔭 I’m currently working on [Cookie Destroyer](https://github.com/OMEGA6405/CookieDestroyer)
 	
-- 🌱 I’m currently learning **PHP and Java**
+- 🌱 I’m currently learning **Python**
 	
 - 👯 I’m looking to collaborate on [My Youtube](you)
 	
