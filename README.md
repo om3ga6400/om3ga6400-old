@@ -65,7 +65,7 @@
 <!--github readme streak stats-->
 <div align="center">
 	
-[![GitHub Streak](https://github-readme-streak-stats-omega6405.vercel.app/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://github.com/OMEGA6405/github-readme-streak-stats)
+[![failed to load resource](https://github-readme-streak-stats-omega6405.vercel.app/?user=OMEGA6405&theme=github-dark-blue&hide_border=true)](https://github.com/OMEGA6405/github-readme-streak-stats)
 	</div>
 
 <!--awards title-->
@@ -74,7 +74,7 @@
 <!--github profile trophy-->
 <div align="center">
 	
-[![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![failed to load resource](https://github-profile-trophy.vercel.app/?username=OMEGA6405&theme=darkhub&no-frame=true&row=1&margin-w=0&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
 
 <!--gitub stats title-->
@@ -100,7 +100,7 @@
 ## 📈 Activity Graph
 
 <!--activity graph-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-omega6405.vercel.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![failed to load resource](https://github-readme-activity-graph-omega6405.vercel.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--snk title image-->
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
