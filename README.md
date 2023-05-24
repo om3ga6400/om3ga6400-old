@@ -100,7 +100,7 @@
 ## 📈 Activity Graph
 
 <!--activity graph-->
-[![failed to load resource](https://github-readme-activity-graph-omega6405.vercel.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![failed to load resource](https://github-readme-activity-graph.vercel.app/graph?username=OMEGA6405&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--snk title image-->
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
