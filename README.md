@@ -10,15 +10,14 @@
 
 <!--badges-->
 <p align="center">
-<img alt="failed to load resource" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+<img src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow" alt="failed to load resource">
 <img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="failed to load resource"/>
-<a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
-	</a>
-<a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
-<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
-<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
-<a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
-<a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
+<img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" alt="failed to load resource" />
+<img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
+<img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
+<img src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main" alt="failed to load resource"/></a>
+<img src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat" alt="failed to load resource"/></a>
+<img src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat" alt="failed to load resource"/></a>
 </p>
 
 <!--typing-->
