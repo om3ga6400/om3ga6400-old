@@ -17,7 +17,7 @@
 <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
 <img src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main" alt="failed to load resource"/></a>
 <img src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat" alt="failed to load resource"/></a>
-<img src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat" alt="failed to load resource"/></a>
+<img src="https://dcbadge.vercel.app/api/server/MnKATbav8B?style=flat" alt="failed to load resource"/></a>
 </p>
 
 <!--typing-->
@@ -44,7 +44,7 @@
 - 🖥️ My Discord Server
 	
 <!--discord invite-->
-[![Join us on Discord](https://invidget.switchblade.xyz/tjShmfFNb9)](https://discord.gg/tjShmfFNb9)
+[![Join us on Discord](https://invidget.switchblade.xyz/MnKATbav8B)](https://discord.gg/MnKATbav8B)
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
