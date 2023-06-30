@@ -44,7 +44,7 @@
 - 🖥️ My Discord Server
 	
 <!--discord invite-->
-[![Join us on Discord](http://invidget.switchblade.xyz/MnKATbav8B)](https://discord.gg/MnKATbav8B)
+![Join us on Discord](http://invidget.switchblade.xyz/MnKATbav8B)
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
