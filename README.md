@@ -110,7 +110,7 @@
 <!--snk-->	
 <h1 align='center'></h1>
 
-![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake-dark.svg)![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake.svg)
+![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </p>
 
 <!--bye-->
