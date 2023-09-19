@@ -95,15 +95,6 @@
 <!--activity graph-->
 [![failed to load resource](https://github-readme-activity-graph.vercel.app/graph?username=OM3GA6400&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--snk title image-->
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-	
-<!--snk-->	
-<h1 align='center'></h1>
-
 <!--bye-->
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
 
