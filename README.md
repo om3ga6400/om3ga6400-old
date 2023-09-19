@@ -104,9 +104,6 @@
 <!--snk-->	
 <h1 align='center'></h1>
 
-![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![failed to load resource](https://raw.githubusercontent.com/OM3GA6400/OM3GA6400/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</p>
-
 <!--bye-->
 <h1 align='center'>⚡️<i>Goodbye!</i>⚡️</h1>
 
