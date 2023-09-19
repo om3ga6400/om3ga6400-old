@@ -17,7 +17,6 @@
 <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OM3GA6400/OM3GA6400?label=Profile%20update&style=fflat-square"></a>
 <img src="https://github.com/OM3GA6400/OM3GA6400/actions/workflows/main.yml/badge.svg?branch=main" alt="failed to load resource"/></a>
 <img src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat" alt="failed to load resource"/></a>
-<img src="https://dcbadge.vercel.app/api/server/MnKATbav8B?style=flat" alt="failed to load resource"/></a>
 </p>
 
 <!--typing-->
@@ -40,11 +39,6 @@
 - 📫 How to reach me **IAmATotallyAnonymousUser@gmail.com**
 	
 - ⚡ Fun fact **I can solve a Rubix cube**
-	
-- 🖥️ My Discord Server
-	
-<!--discord invite-->
-![Join us on Discord](http://invidget.switchblade.xyz/MnKATbav8B)
 
 <!--connect with me-->
 <h3 align="left">Connect with me:</h3>
