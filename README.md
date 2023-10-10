@@ -6,7 +6,7 @@
 <img src="assets/img/wave.gif" width="28">
 	
 <!--tagline-->
-<h3 align="center">Cool 7th grader</h3>
+<h3 align="center">Cool 8th grader</h3>
 
 <!--badges-->
 <p align="center">
