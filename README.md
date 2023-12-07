@@ -55,9 +55,6 @@
 	
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,discord,github,html,java,js,md,ps,py,vercel,visualstudio,stackoverflow,svg)](https://skillicons.dev)
 
-
-## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
-	
   <!--
 **JustSpaceisded/JustSpaceisded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
