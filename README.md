@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square" alt="failed to load resource">
 <img src="https://komarev.com/ghpvc/?username=OM3GA6400" alt="failed to load resource"/>
 <img src="https://img.shields.io/github/commit-activity/m/OM3GA6400/OM3GA6400" alt="failed to load resource" />
-<img alt="Followers" src="https://img.shields.io/github/followers/OM3GA6400?color=4C1&logo=github"></a>
+<img alt="Followers" src="https://img.shields.io/github/followers/OM3GA6400?color=4C1&logo=github&style=fflat-square"></a>
 <img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OM3GA6400/OM3GA6400?label=Profile%20update&style=fflat-square"></a>
 <img src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat" alt="failed to load resource"/></a>
 </p>
