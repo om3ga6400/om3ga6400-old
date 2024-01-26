@@ -10,7 +10,7 @@
 
 <!--badges-->
 <p align="center">
-<img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow" alt="failed to load resource">
+<img src="https://img.shields.io/github/stars/OM3GA6400?color=yellow&label=User%20Stars&logo=github&logoColor=yellow&style=fflat-square" alt="failed to load resource">
 <img src="https://komarev.com/ghpvc/?username=OM3GA6400" alt="failed to load resource"/>
 <img src="https://img.shields.io/github/commit-activity/m/OM3GA6400/OM3GA6400" alt="failed to load resource" />
 <img alt="Followers" src="https://img.shields.io/github/followers/OM3GA6400?color=4C1&logo=github"></a>
